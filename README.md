@@ -1,6 +1,6 @@
 # Party Switchers in Peru.
-## Project for UChicago CAPP122, March 2020 with A.Bartra, R.Eid, M.Richardson
-## Keywords: WebScraping, SQL, Network Analysis.
+## Project for UChicago CAPP122, Computer Science with Applications (March 2020) with A.Bartra, R.Eid, M.Richardson
+## Keywords: WebScraping, SQL, Network Analysis, Python.
 
 <img src="https://github.com/acozzubo/party-switchers/blob/main/images/net3.png" alt="drawing" height="350" width="1200"/>
 

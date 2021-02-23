@@ -2,7 +2,7 @@
 ## Project for UChicago CAPP122, March 2020 with A.Bartra, R.Eid, M.Richardson
 ## Keywords: WebScraping, SQL, Network Analysis.
 
-<img src="https://github.com/acozzubo/party-switchers/blob/main/images/net3.png" alt="drawing" height="400" width="1200"/>
+<img src="https://github.com/acozzubo/party-switchers/blob/main/images/net3.png" alt="drawing" height="350" width="1200"/>
 
 
 # 0. Presentation 
